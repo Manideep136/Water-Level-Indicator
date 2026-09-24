@@ -6,3 +6,17 @@ This project is an ESP32-based Water Level Indicator PCB designed to monitor the
 The PCB is designed in KiCad and provides connections for an ESP32 DevKit V1 (30-pin), ultrasonic sensor, OLED display, buzzer, LED indicator, push button, and power supply.
 
 The ESP32 processes the distance measured by the ultrasonic sensor and determines the approximate water level. The status can be displayed on an OLED and indicated using LEDs and a buzzer.
+
+Features
+ESP32 DevKit V1 based controller
+Ultrasonic water-level measurement
+OLED display interface using I²C
+LED status indication
+Buzzer alarm for high/critical water level
+Push-button input
+Transistor-driven buzzer circuit
+Removable ESP32 module
+Through-hole mounting for ESP32 headers
+External 5 V DC power input
+Designed using KiCad
+PCB layout suitable for prototype/college project development
