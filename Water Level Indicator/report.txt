@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-F_Cu.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-B_Cu.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-F_Paste.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-B_Paste.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-F_Mask.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-B_Mask.gbr'.
+Plotted to 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\Water Level Indicator\Gerber\Water Level Indicator-job.gbrjob'.
+Info: Done.
